@@ -27,3 +27,34 @@ utilizando tecnologias como visão computacional e inteligência artificial para
 reduzir custos operacionais e aumentar a segurança. 
 A solução também visa melhorar a experiência do cliente ao agilizar o processo de vistoria e fornecer relatórios detalhados para decisões informadas sobre manutenção e reparo das bicicletas.
 </p>
+
+
+
+
+
+
+<div align="center">
+  <h1>Imagens do Front End </h1>
+</div>
+
+
+
+![Layout do Site Front End](./imagens/layoutsite1.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![imagem 3](./imagens/layoutsite3.png)
